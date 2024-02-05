@@ -1,0 +1,101 @@
+/*@media screen and (min-width: 310px) and (max-width: 374px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", "sans-serif";
+  }
+
+  .logo {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+  }
+
+  .navbartag {
+    background-color: black;
+    display: flex;
+    width: 100%;
+    padding-top: 0.6rem;
+    padding-bottom: 0.7rem;
+    padding-left: 0.5rem;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .nav-toggle {
+    float: right;
+    margin-left: 11rem;
+  }
+}
+
+@media screen and (min-width: 374px) and (max-width: 424px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", "sans-serif";
+  }
+
+  .logo {
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+  }
+
+  .navbartag {
+    background-color: black;
+    display: flex;
+    width: 100%;
+    padding-top: 0.6rem;
+    padding-bottom: 0.7rem;
+    padding-left: 0.5rem;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .nav-toggle {
+    float: right;
+    margin-left: 11rem;
+  }
+
+  @media screen and (min-width: 424px) and (max-width: 767px) {
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "poppins", "sans-serif";
+    }
+
+    .logo {
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: 500;
+      color: #fff;
+    }
+
+    .navbartag {
+      background-color: black;
+      display: flex;
+      width: 100%;
+      padding-top: 0.6rem;
+      padding-bottom: 0.7rem;
+      padding-left: 0.5rem;
+    }
+
+    .navbar {
+      display: none;
+    }
+
+    .nav-toggle {
+      float: right;
+      margin-left: 11rem;
+    }
+  }
+}
