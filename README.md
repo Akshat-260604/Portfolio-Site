@@ -1,1 +1,3 @@
 # Portfolio-Site
+Welcome to my portfolio website, showcasing my professional journey, skills, and projects. The site features an introduction to my background, an "About Me" section detailing my education and career milestones, and a "Projects" section with descriptions, technologies used, and outcomes, along with links to demos or repositories. My technical and soft skills are highlighted, including endorsements and certifications. The contact page provides a way to reach out for inquiries or collaborations. Built with HTML, CSS, JavaScript, React.js, and MongoDB, the site is deployed on Vercel. Thank you for visiting!
+Last updated - April'24
